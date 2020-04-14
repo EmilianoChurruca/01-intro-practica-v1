@@ -1,12 +1,12 @@
-package ar.edu.unahur.obj2.ejercicio1;
+package ar.edu.unahur.Practica1.Practica1;
 
 import org.testng.annotations.Test;
-
-import static org.testng.Assert.*;
 
 public class Ejercicio1Test {
 
     @Test
     public void testOrdenar() {
     }
+
+
 }
