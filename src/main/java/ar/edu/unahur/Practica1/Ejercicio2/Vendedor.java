@@ -2,7 +2,7 @@ package ar.edu.unahur.Practica1.Ejercicio2;
 
 public class Vendedor extends Persona{
     private double porcenComision;
-    private double totalVentas;
+    protected double totalVentas;
 
     public Vendedor(int dni, String nombre, String apellido, String mail, double sueldoBase, double porcenComision, double totalVentas) {
         super(dni, nombre, apellido, mail, sueldoBase);
